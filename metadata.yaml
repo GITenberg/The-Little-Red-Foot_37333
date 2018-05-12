@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38191
     wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37333#The-Little-Red-Foot
 gutenberg_issued: '2011-09-07'
 gutenberg_type: Text
 identifiers:
